@@ -1,4 +1,4 @@
-# thermal_Imaging
+# Thermal Imaging
 Create a fake thermal imager with your webcam
 
 Technologies used: <br>
